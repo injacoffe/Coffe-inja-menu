@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>کافه اینجا - منو</title>
+  <style>
+    body {
+      font-family: "Tahoma", sans-serif;
+      background: #fff;
+      color: #000;
+      margin: 0;
+      padding: 20px;
+      direction: rtl;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 15px;
+      border-bottom: 2px solid #000;
+      margin-bottom: 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+      font-weight: bold;
+    }
+    h2 {
+      border-bottom: 1px solid #000;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    li {
+      padding: 5px 0;
+      border-bottom: 1px solid #eee;
+      font-size: 1.1em;
+    }
+    li:last-child {
+      border-bottom: none;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      border-top: 2px solid #000;
+      padding-top: 15px;
+      font-size: 1em;
+    }
+    a {
+      color: black;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>کافه اینجا</h1>
+    <p>آدرس: کرج، بلوار باغستان، بوستان ۱۴</p>
+    <p>ساعت کاری: ۷ الی ۲۳</p>
+    <p>اینستاگرام: <a href="https://instagram.com/injaa_cafe" target="_blank">@injaa_cafe</a></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>نوشیدنی گرم</h2>
+      <ul>
+        <li>اسپرسو سینگل - ۴۰ ت</li>
+        <li>اسپرسو دبل - ۴۵ ت</li>
+        <li>اسپرسو سینگل اسپشیال - ۴۵ ت</li>
+        <li>اسپرسو دبل اسپشیال - ۵۰ ت</li>
+        <li>هات چاکلت - ۷۵ ت</li>
+        <li>پینک چاکلت - ۷۵ ت</li>
+        <li>وایت چاکلت - ۷۵ ت</li>
+        <li>لاته - ۷۵ ت</li>
+        <li>لاته فندق - ۸۰ ت</li>
+        <li>لاته شکلات - ۸۰ ت</li>
+        <li>لاته وانیل - ۸۰ ت</li>
+        <li>لاته کارامل - ۸۰ ت</li>
+        <li>لاته دارچین - ۸۰ ت</li>
+        <li>کاپوچینو - ۶۵ ت</li>
+        <li>کاپوچینو فندق - ۷۰ ت</li>
+        <li>کاپوچینو شکلات - ۷۰ ت</li>
+        <li>کاپوچینو وانیل - ۷۰ ت</li>
+        <li>کاپوچینو کارامل - ۷۰ ت</li>
+        <li>کاپوچینو دارچین - ۷۰ ت</li>
+        <li>کاپوچینو توت فرنگی - ۷۰ ت</li>
+        <li>ماکیاتو - ۸۰ ت</li>
+        <li>کارامل ماکیاتو - ۹۰ ت</li>
+        <li>توت فرنگی ماکیاتو - ۹۰ ت</li>
+        <li>فندق ماکیاتو - ۹۰ ت</li>
+        <li>موکا - ۸۵ ت</li>
+        <li>وایت موکا - ۸۰ ت</li>
+        <li>پینک موکا - ۸۰ ت</li>
+        <li>نسکافه - ۷۵ ت</li>
+        <li>شکلات نسکافه - ۸۰ ت</li>
+        <li>فندق نسکافه - ۸۰ ت</li>
+        <li>قهوه ترک - ۵۵ ت</li>
+        <li>قهوه یونانی - ۶۵ ت</li>
+        <li>دله عربی سینگل - ۴۵ ت</li>
+        <li>دله عربی دبل - ۵۵ ت</li>
+        <li>قهوه فرانسه - ۶۰ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>چای</h2>
+      <ul>
+        <li>چای ماسالا - ۷۰ ت</li>
+        <li>چای ماسالا اسپایسی - ۸۰ ت</li>
+        <li>چای سیاه - ۳۰ ت</li>
+        <li>چای آلبالو - ۳۸ ت</li>
+        <li>چای موهیتو - ۳۸ ت</li>
+        <li>چای گلاب - ۳۸ ت</li>
+        <li>چای سبز - ۵۰ ت</li>
+        <li>چای ترش - ۵۵ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>دمنوش‌ها</h2>
+      <ul>
+        <li>دمنوش بانوان - ۸۵ ت</li>
+        <li>دمنوش آقایان - ۹۵ ت</li>
+        <li>دمنوش لاغری - ۷۵ ت</li>
+        <li>دمنوش لذت - ۸۰ ت</li>
+        <li>دمنوش آرامش - ۹۰ ت</li>
+        <li>دمنوش سرماخوردگی - ۸۰ ت</li>
+        <li>دمنوش گل گاو زبان - ۷۰ ت</li>
+        <li>دمنوش بهارنارنج - ۶۰ ت</li>
+        <li>دمنوش به لیمو - ۶۰ ت</li>
+        <li>دمنوش اویشن - ۶۰ ت</li>
+        <li>دمنوش پونه - ۶۰ ت</li>
+        <li>دمنوش چای ترش - ۵۵ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>نوشیدنی آیس</h2>
+      <ul>
+        <li>آیس امریکانو - ۵۰ ت</li>
+        <li>آیس امریکانو اسپشیال - ۵۵ ت</li>
+        <li>آیس لاته (فندق، شکلات، کارامل، وانیل) - ۸۵ ت</li>
+        <li>آیس کارامل ماکیاتو - ۹۰ ت</li>
+        <li>های پرسو - ۹۰ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>نوشیدنی‌های بهشتی</h2>
+      <ul>
+        <li>سیب بهشت - ۷۵ ت</li>
+        <li>طالبی بهشت - ۷۵ ت</li>
+        <li>هلو بهشت - ۷۵ ت</li>
+        <li>انبه بهشت - ۷۵ ت</li>
+        <li>موهیتو بهشت - ۷۵ ت</li>
+        <li>هایپ بهشت - ۸۰ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>نوشیدنی سرد مخصوص اینجا</h2>
+      <ul>
+        <li>رنگین کمان - ۹۵ ت</li>
+        <li>کاکتوس - ۱۰۰ ت</li>
+        <li>دریا - ۱۰۰ ت</li>
+        <li>هرمز - ۹۵ ت</li>
+        <li>دراکولا - ۹۵ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>نوشیدنی طبیعی</h2>
+      <ul>
+        <li>موهیتو - ۹۵ ت</li>
+        <li>لیمو ناد - ۸۵ ت</li>
+        <li>اسموتی توت فرنگی - ۱۰۵ ت</li>
+        <li>اسموتی موز - ۱۰۵ ت</li>
+        <li>طالبی - ۷۰ ت</li>
+        <li>شیر موز - ۹۰ ت</li>
+        <li>شیر موز (خرما، توت فرنگی) - ۹۵ ت</li>
+        <li>شیر توت فرنگی - ۹۰ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>شیک</h2>
+      <ul>
+        <li>شیک فندق - ۱۲۰ ت</li>
+        <li>شیک بادام زمینی - ۱۲۰ ت</li>
+        <li>شیک شکلات - ۱۰۰ ت</li>
+        <li>شیک نوتلا - ۱۱۰ ت</li>
+        <li>شیک توت فرنگی - ۱۱۰ ت</li>
+        <li>شیک توت فرنگی نوتلا - ۱۲۵ ت</li>
+        <li>شیک موز - ۱۱۰ ت</li>
+        <li>شیک موز توت فرنگی - ۱۲۵ ت</li>
+        <li>شیک موز نوتلا - ۱۲۰ ت</li>
+        <li>شیک موز توت فرنگی نوتلا - ۱۳۰ ت</li>
+        <li>ماهور بستنی - ۱۱۰ ت</li>
+        <li>شیک زعفرون - ۱۰۰ ت</li>
+        <li>شیک موز زعفرون - ۱۱۰ ت</li>
+        <li>شیک زعفرون توت فرنگی - ۱۲۰ ت</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>ویتامینه مخصوص اینجا</h2>
+      <p>۱۵۰ ت</p>
+    </section>
+
+    <section>
+      <h2>کیک و دسر</h2>
+      <ul>
+        <li>کیک ردولوت</li>
+        <li>کیک کارامل</li>
+        <li>کیک نوتلا</li>
+        <li>کیک شکلات</li>
+        <li>کیک شکلات دارک</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>قلیون مخصوص اینجا</h2>
+      <ul>
+        <li>مخصوص اینجا</li>
+        <li>لاو</li>
+        <li>لیدی کیلر</li>
+        <li>شب‌های مسکو</li>
+        <li>استوایی</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>قلیون</h2>
+      <ul>
+        <li>لیمو</li>
+        <li>لیمو نعنا</li>
+        <li>موهیتو</li>
+        <li>آدامس دارچین</li>
+        <li>هندوانه</li>
+        <li>هندوانه نعنا</li>
+        <li>شلیل</li>
+        <li>آلبالو</li>
+        <li>دوسیب</li>
+        <li>دوسیب آلبالو</li>
+        <li>دوسیب شلیل</li>
+        <li>دوسیب نعنا</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>کافه اینجا | کرج، بلوار باغستان، بوستان ۱۴ | ساعت کاری: ۷ الی ۲۳</p>
+  </footer>
+</body>
+</html>
